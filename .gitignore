@@ -11,4 +11,8 @@
 !🪨Obsidian/**
 🪨Obsidian/assets
 
+!📂Public/
+!📂Public/**
+
 !🗓️Daily/
+!🗓️Daily/🗓️Daily.md
