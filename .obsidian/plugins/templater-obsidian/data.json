@@ -22,7 +22,7 @@
   "enable_file_templates": true,
   "file_templates": [
     {
-      "regex": "(?!🪨Obsidian/).*",
+      "regex": "^(?!🪨Obsidian/).*",
       "template": "🪨Obsidian/templater/page - new note.md"
     }
   ],
@@ -32,7 +32,8 @@
     "🪨Obsidian/templater/html - furigana.md",
     "🪨Obsidian/templater/snippet - time_.md",
     "🪨Obsidian/templater/script - shout.md",
-    "🪨Obsidian/templater/snippet - date.md"
+    "🪨Obsidian/templater/snippet - date.md",
+    "🪨Obsidian/templater/snippet - youtube.md"
   ],
   "startup_templates": [],
   "intellisense_render": 1

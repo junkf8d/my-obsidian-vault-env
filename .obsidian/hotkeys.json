@@ -213,5 +213,13 @@
       ],
       "key": "L"
     }
+  ],
+  "templater-obsidian:🪨Obsidian/templater/snippet - youtube.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Y"
+    }
   ]
 }
