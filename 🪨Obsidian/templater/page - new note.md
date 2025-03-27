@@ -1,5 +1,5 @@
 ---
-created: <% tp.file.creation_date() %>
+created: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 modified: 
 cssclasses: 
 aliases: 

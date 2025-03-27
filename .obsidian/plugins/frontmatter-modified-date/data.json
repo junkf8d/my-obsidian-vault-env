@@ -1,7 +1,7 @@
 {
   "frontmatterProperty": "modified",
   "createdDateProperty": "",
-  "momentFormat": "YYYY-MM-DD HH:mm",
+  "momentFormat": "YYYY-MM-DDTHH:mm:ss",
   "storeHistoryLog": true,
   "historyNewestFirst": true,
   "historyMaxItems": 0,
