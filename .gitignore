@@ -9,6 +9,8 @@
 # config
 !.obsidian/
 !.obsidian/**
+!.vscode/
+!.vscode/**
 
 # config directory
 !🪨Obsidian/
@@ -26,4 +28,7 @@
 !📂Public/**
 
 # deny list
+.obsidian/workspace
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
