@@ -1,0 +1,14 @@
+*
+*/
+
+!.gitignore
+!.gitattributes
+
+!.obsidian/
+!.obsidian/**
+
+!⚙️Config/
+!⚙️Config/**
+⚙️Config/assets
+
+!📓Journals/

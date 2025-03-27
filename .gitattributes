@@ -1,0 +1,10 @@
+# 改行コードの自動変換設定（これは最も重要）
+* text=auto
+
+# シェルスクリプトはLF改行を強制（Windows環境でも）
+*.sh text eol=lf
+*.bash text eol=lf
+
+# Windowsバッチファイルは常にCRLFで扱う
+*.bat text eol=crlf
+*.cmd text eol=crlf
