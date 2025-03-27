@@ -24,6 +24,14 @@
     {
       "regex": "^(?!🪨Obsidian/).*",
       "template": "🪨Obsidian/templater/page - new note.md"
+    },
+    {
+      "regex": "🗓️Daily/\\d+-\\d+-\\d+(.)/\\d+-\\d+-\\d+(.)",
+      "template": "🪨Obsidian/templater/page - daily note.md"
+    },
+    {
+      "regex": "🗓️Daily/\\d+-\\d+-\\d+(.)/\\d+：\\d+",
+      "template": "🪨Obsidian/templater/page - daily page.md"
     }
   ],
   "syntax_highlighting": true,
