@@ -30,8 +30,9 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "🪨Obsidian/templater/html - furigana.md",
-    "🪨Obsidian/templater/script - add dakuten.md",
-    "🪨Obsidian/templater/snippet - datetime.md"
+    "🪨Obsidian/templater/snippet - time_.md",
+    "🪨Obsidian/templater/script - shout.md",
+    "🪨Obsidian/templater/snippet - date.md"
   ],
   "startup_templates": [],
   "intellisense_render": 1
