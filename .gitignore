@@ -32,3 +32,7 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/cache
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/obsidian-livesync/main.js
+.obsidian/plugins/obsidian-livesync/manifest.json
+.obsidian/plugins/obsidian-livesync/styles.css
