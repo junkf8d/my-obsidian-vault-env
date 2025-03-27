@@ -1,10 +1,11 @@
 ---
 created: <% tp.file.creation_date() %>
-modified:
+modified: 
 cssclasses: 
 aliases: 
 tags: 
-related: 
 type: 
+related: 
 source: 
+description:
 ---
