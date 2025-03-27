@@ -1,18 +1,29 @@
+# all ignore
 *
 */
 
+# git
 !.gitignore
 !.gitattributes
 
+# config
 !.obsidian/
 !.obsidian/**
 
+# config directory
 !🪨Obsidian/
 !🪨Obsidian/**
+
+# ignore assets
 🪨Obsidian/assets
 
+# daily note ()
+!🗓️Daily/
+!🗓️Daily/🗓️Daily.md
+
+# public
 !📂Public/
 !📂Public/**
 
-!🗓️Daily/
-!🗓️Daily/🗓️Daily.md
+# deny list
+.obsidian/workspace.json
