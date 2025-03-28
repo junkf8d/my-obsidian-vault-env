@@ -1,5 +1,5 @@
 {
-  "format": "YYYY-MM-DD(ddd)/YYYY-MM-DD(ddd)",
+  "format": "YYYY年/MM月/YYYY-MM-DD(ddd)/YYYY-MM-DD(ddd)",
   "folder": "🗓️Daily",
   "template": "🪨Obsidian/templater/page - new note"
 }

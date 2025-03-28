@@ -33,6 +33,6 @@ async function buildYoutubeInfo(str) {
 }
 
 const cb = await navigator.clipboard.readText();
-tR = await tp.user.custom(cb);
+tR = await buildYoutubeInfo(cb);
 -%>
 
