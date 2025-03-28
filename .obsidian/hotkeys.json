@@ -66,42 +66,8 @@
       "key": "'"
     }
   ],
-  "templater-obsidian:🪨Obsidian/templater/snippet - time_.md": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": ";"
-    }
-  ],
   "markdown:add-metadata-property": [],
-  "templater-obsidian:🪨Obsidian/templater/snippet - date.md": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "="
-    }
-  ],
-  "obsidian-icon-folder:iconize:set-icon-for-file": [],
   "obsidian-outliner:system-info": [],
-  "audio-recorder:start": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
-  "audio-recorder:stop": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "R"
-    }
-  ],
   "editor:insert-codeblock": [
     {
       "modifiers": [
@@ -156,7 +122,6 @@
     }
   ],
   "workspace:edit-file-title": [],
-  "editor:delete-paragraph": [],
   "editor:set-heading-1": [
     {
       "modifiers": [
@@ -271,5 +236,67 @@
       ],
       "key": "Q"
     }
-  ]
+  ],
+  "table-editor-obsidian:table-control-bar": [],
+  "obsidian-icon-folder:iconize:set-icon-for-file": [],
+  "obsidian-outliner:move-list-item-up": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-outliner:move-list-item-down": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "templater-obsidian:🪨Obsidian/templater/snippet - date.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ],
+  "templater-obsidian:🪨Obsidian/templater/snippet - time_.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ],
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "bookmarks:bookmark-current-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": []
 }
