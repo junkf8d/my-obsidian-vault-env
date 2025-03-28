@@ -1,6 +1,7 @@
 ---
 created: 2025-03-28T20:32:35
 modified:
+  - 2025-03-28T21:03:39
   - 2025-03-28T20:39:55
 type: 
 aliases: 
@@ -49,6 +50,8 @@ memo:
     - JavaScriptファイル作成すんのめんどい
         - フォルダ内のやつ全部読み込んでくれればいいのに？
             - 読み込んでくれたところでホットキーに追加するのは手動
+    - 選択項目から選ばせる suggester
+        - https://silentvoid13.github.io/Templater/internal-functions/internal-modules/system-module.html#tpsystemsuggestertext_items-string--item-t--string-items-t-throw_on_cancel-boolean--false-placeholder-string---limit-number--undefined
 - jsのライブラリ読めるのか？
     - QRコードのライブラリとか使いたいけど
     - チャートのライブラリとか使えるなら何でもありでは？

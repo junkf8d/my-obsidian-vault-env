@@ -1,37 +1,24 @@
 {
-  "command_timeout": 5,
-  "templates_folder": "",
+  "command_timeout": 20,
+  "templates_folder": "🪨Obsidian/templates",
   "templates_pairs": [
     [
-      "",
-      ""
+      "echo",
+      "echo \"%message%\""
     ]
   ],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": true,
-  "enable_system_commands": false,
+  "enable_system_commands": true,
   "shell_path": "",
   "user_scripts_folder": "🪨Obsidian/templater-scripts",
   "enable_folder_templates": false,
-  "folder_templates": [
-    {
-      "folder": "",
-      "template": ""
-    }
-  ],
-  "enable_file_templates": true,
+  "folder_templates": [],
+  "enable_file_templates": false,
   "file_templates": [
     {
       "regex": "^(?!🪨Obsidian/).*",
-      "template": "🪨Obsidian/templater/page - new note.md"
-    },
-    {
-      "regex": "🗓️Daily/\\d+-\\d+-\\d+(.)/\\d+-\\d+-\\d+(.)",
-      "template": "🪨Obsidian/templater/page - daily note.md"
-    },
-    {
-      "regex": "🗓️Daily/\\d+-\\d+-\\d+(.)/\\d+：\\d+",
-      "template": "🪨Obsidian/templater/page - daily page.md"
+      "template": "🪨Obsidian/templates/new note.md"
     }
   ],
   "syntax_highlighting": true,
@@ -39,9 +26,7 @@
   "enabled_templates_hotkeys": [
     "🪨Obsidian/templater/html - furigana.md",
     "🪨Obsidian/templater/snippet - time_.md",
-    "🪨Obsidian/templater/script - shout.md",
-    "🪨Obsidian/templater/snippet - date.md",
-    "🪨Obsidian/templater/snippet - youtube.md"
+    "🪨Obsidian/templater/snippet - date.md"
   ],
   "startup_templates": [],
   "intellisense_render": 1

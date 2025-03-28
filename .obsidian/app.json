@@ -5,8 +5,12 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "useTab": false,
+  "useTab": true,
   "spellcheck": false,
   "showLineNumber": false,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "userIgnoreFilters": [
+    "🪨Obsidian/"
+  ],
+  "uriCallbacks": true
 }

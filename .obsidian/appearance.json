@@ -1,11 +1,12 @@
 {
-  "interfaceFontFamily": "Cascadia Code",
-  "textFontFamily": "Cascadia Code",
-  "monospaceFontFamily": "Cascadia Mono",
+  "interfaceFontFamily": "Cascadia Code,Yu Gothic UI",
+  "textFontFamily": "Cascadia Code,Yu Gothic",
+  "monospaceFontFamily": "Cascadia Mono,BIZ UDPゴシック",
   "enabledCssSnippets": [],
   "theme": "obsidian",
   "cssTheme": "Blue Topaz",
   "showRibbon": true,
   "baseFontSizeAction": false,
-  "baseFontSize": 12
+  "baseFontSize": 14,
+  "showViewHeader": true
 }
