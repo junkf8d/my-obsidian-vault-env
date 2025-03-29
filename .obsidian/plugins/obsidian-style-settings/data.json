@@ -85,6 +85,6 @@
   "blue-topaz-theme@@style-options-for-calendar-plugin": "style-options-for-calendar-plugin-default",
   "blue-topaz-theme@@rainbow-checklist": false,
   "blue-topaz-theme@@img-grid": false,
-  "blue-topaz-theme@@image-zoom": false,
+  "blue-topaz-theme@@image-zoom": true,
   "blue-topaz-theme@@default-split-style": true
 }
