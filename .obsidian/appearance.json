@@ -2,7 +2,9 @@
   "interfaceFontFamily": "Cascadia Code,Yu Gothic UI",
   "textFontFamily": "Cascadia Code,Yu Gothic",
   "monospaceFontFamily": "Cascadia Mono,BIZ UDPゴシック",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "custom"
+  ],
   "theme": "obsidian",
   "cssTheme": "Blue Topaz",
   "showRibbon": true,

@@ -6,7 +6,7 @@
   "historyNewestFirst": true,
   "historyMaxItems": 0,
   "excludedFolders": [
-    "🪨Obsidian"
+    "Obsidian"
   ],
   "useKeyupEvents": false,
   "onlyUpdateExisting": false,

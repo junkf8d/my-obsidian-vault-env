@@ -13,19 +13,19 @@
 !.vscode/**
 
 # config directory
-!🪨Obsidian/
-!🪨Obsidian/**
+!Obsidian/
+!Obsidian/**
 
 # ignore assets
-🪨Obsidian/assets
+Obsidian/assets
 
 # daily note ()
-!🗓️Daily/
-!🗓️Daily/🗓️Daily.md
+!Daily/
+!Daily/Daily.md
 
 # public
-!📂Public/
-!📂Public/**
+!Public/
+!Public/**
 
 # deny list
 .obsidian/workspace

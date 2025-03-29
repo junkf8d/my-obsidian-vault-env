@@ -6,6 +6,13 @@
         "Shift"
       ],
       "key": "J"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": " "
     }
   ],
   "zk-prefixer": [
@@ -86,14 +93,6 @@
     }
   ],
   "editor:toggle-comments": [],
-  "editor:toggle-blockquote": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "/"
-    }
-  ],
   "editor:insert-callout": [
     {
       "modifiers": [
@@ -115,10 +114,8 @@
   ],
   "file-explorer:reveal-active-file": [
     {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
+      "modifiers": [],
+      "key": "F4"
     }
   ],
   "workspace:edit-file-title": [],
@@ -211,14 +208,6 @@
       "key": "-"
     }
   ],
-  "editor:toggle-checklist-status": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Enter"
-    }
-  ],
   "editor:save-file": [],
   "app:toggle-left-sidebar": [
     {
@@ -257,12 +246,30 @@
       "key": "ArrowDown"
     }
   ],
-  "templater-obsidian:🪨Obsidian/templater/snippet - date.md": [
+  "editor:insert-table": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "="
+      "key": "\\"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowDown"
     }
   ],
   "templater-obsidian:🪨Obsidian/templater/snippet - time_.md": [
@@ -273,15 +280,50 @@
       "key": ";"
     }
   ],
-  "editor:insert-table": [
+  "editor:toggle-blockquote": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "\\"
+      "key": "."
     }
   ],
-  "open-with-default-app:show": [
+  "editor:set-heading-0": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "0"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:toggle-source": [
     {
       "modifiers": [
         "Mod",
@@ -290,13 +332,20 @@
       "key": "E"
     }
   ],
-  "bookmarks:bookmark-current-view": [
+  "workspace:toggle-pin": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "D"
+      "key": "P"
     }
   ],
-  "editor:delete-paragraph": []
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F4"
+    }
+  ]
 }

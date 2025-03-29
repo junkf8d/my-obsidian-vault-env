@@ -1,1 +1,5 @@
-/* nothing */
+/*
+html body:not(.obsidian-default-image) .workspace-leaf-content[data-type="markdown"] .internal-embed.image-embed.is-loaded img:not([class*="emoji"]) {
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}*/
