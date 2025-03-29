@@ -347,5 +347,37 @@
       ],
       "key": "F4"
     }
+  ],
+  "templater-obsidian:Obsidian/templater/html - furigana.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
+  ],
+  "templater-obsidian:Obsidian/templater/snippet - time_.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    }
+  ],
+  "templater-obsidian:Obsidian/templates/snippet/snippet - time_.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    }
+  ],
+  "templater-obsidian:Obsidian/templates/snippet/html - furigana.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
   ]
 }

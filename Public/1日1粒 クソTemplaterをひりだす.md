@@ -1,13 +1,12 @@
 ---
 created: 2025-03-28T20:32:35
 modified:
+  - 2025-03-29T20:15:58
   - 2025-03-28T21:03:39
   - 2025-03-28T20:39:55
-type: 
 aliases: 
 tags: 
 related: 
-source: 
 memo: 
 ---
 

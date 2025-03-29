@@ -1,0 +1,392 @@
+{
+  "folderPresets": [
+    {
+      "type": "DEFAULT",
+      "name": "Default (Obsidian setting)"
+    },
+    {
+      "type": "ROOT",
+      "name": "Root folder"
+    },
+    {
+      "type": "CURRENT",
+      "name": "Same folder as current note"
+    }
+  ],
+  "selectedFolderPreset": "Default (Obsidian setting)",
+  "filenamePresets": [
+    {
+      "name": "Keep original name",
+      "customTemplate": "{imagename}",
+      "skipRenamePatterns": "",
+      "conflictResolution": "increment"
+    },
+    {
+      "name": "NoteName-Timestamp",
+      "customTemplate": "{notename}-{timestamp}",
+      "skipRenamePatterns": "",
+      "conflictResolution": "increment"
+    },
+    {
+      "name": "custom",
+      "customTemplate": "{date:YYYY-MM-DD_HH-mm-ss}_「{notename}」_{resolution}_{sha256:image:8}",
+      "skipRenamePatterns": ""
+    }
+  ],
+  "selectedFilenamePreset": "custom",
+  "outputFormat": "NONE",
+  "quality": 100,
+  "colorDepth": 1,
+  "pngquantQuality": "65-80",
+  "ffmpegExecutablePath": "",
+  "ffmpegCrf": 23,
+  "ffmpegPreset": "medium",
+  "resizeMode": "None",
+  "desiredWidth": 800,
+  "desiredHeight": 600,
+  "desiredLongestEdge": 1000,
+  "enlargeOrReduce": "Auto",
+  "allowLargerFiles": false,
+  "showPresetModal": {
+    "folder": false,
+    "filename": false
+  },
+  "subfolderTemplate": "",
+  "conversionPresets": [
+    {
+      "name": "None",
+      "outputFormat": "NONE",
+      "quality": 100,
+      "colorDepth": 1,
+      "resizeMode": "None",
+      "desiredWidth": 800,
+      "desiredHeight": 600,
+      "desiredLongestEdge": 1000,
+      "enlargeOrReduce": "Auto",
+      "allowLargerFiles": false,
+      "skipConversionPatterns": "",
+      "pngquantExecutablePath": "",
+      "pngquantQuality": "65-80",
+      "ffmpegExecutablePath": "",
+      "ffmpegCrf": 23,
+      "ffmpegPreset": "medium"
+    },
+    {
+      "name": "WEBP (75, no resizing)",
+      "outputFormat": "WEBP",
+      "quality": 75,
+      "colorDepth": 1,
+      "resizeMode": "None",
+      "desiredWidth": 800,
+      "desiredHeight": 600,
+      "desiredLongestEdge": 1000,
+      "enlargeOrReduce": "Auto",
+      "allowLargerFiles": false,
+      "skipConversionPatterns": "",
+      "pngquantExecutablePath": "",
+      "pngquantQuality": "65-80",
+      "ffmpegExecutablePath": "",
+      "ffmpegCrf": 23,
+      "ffmpegPreset": "medium"
+    },
+    {
+      "name": "PNGQUANT (65-80, no resizing)",
+      "outputFormat": "PNGQUANT",
+      "quality": 75,
+      "colorDepth": 1,
+      "resizeMode": "None",
+      "desiredWidth": 800,
+      "desiredHeight": 600,
+      "desiredLongestEdge": 1000,
+      "enlargeOrReduce": "Auto",
+      "allowLargerFiles": false,
+      "skipConversionPatterns": "",
+      "pngquantExecutablePath": "",
+      "pngquantQuality": "65-80",
+      "ffmpegExecutablePath": "",
+      "ffmpegCrf": 23,
+      "ffmpegPreset": "medium"
+    },
+    {
+      "name": "compress 70%",
+      "outputFormat": "WEBP",
+      "quality": 50,
+      "colorDepth": 1,
+      "resizeMode": "None",
+      "desiredWidth": 800,
+      "desiredHeight": 600,
+      "desiredLongestEdge": 1000,
+      "enlargeOrReduce": "Auto",
+      "allowLargerFiles": false,
+      "skipConversionPatterns": "",
+      "ffmpegExecutablePath": "",
+      "ffmpegCrf": 23,
+      "ffmpegPreset": "medium"
+    }
+  ],
+  "selectedConversionPreset": "WEBP (75, no resizing)",
+  "globalPresets": [
+    {
+      "name": "WebP 75",
+      "folderPreset": "Default (Obsidian setting)",
+      "filenamePreset": "NoteName-Timestamp",
+      "conversionPreset": "WEBP (75, no resizing)",
+      "linkFormatPreset": "Default (Wikilink, Shortest)",
+      "resizePreset": "Default (No Resize)"
+    }
+  ],
+  "selectedGlobalPreset": "",
+  "linkFormatSettings": {
+    "linkFormatPresets": [
+      {
+        "name": "Default (Wikilink, Shortest)",
+        "linkFormat": "wikilink",
+        "pathFormat": "shortest",
+        "prependCurrentDir": false,
+        "hideFolders": false
+      },
+      {
+        "name": "Markdown, Relative",
+        "linkFormat": "markdown",
+        "pathFormat": "relative",
+        "prependCurrentDir": true,
+        "hideFolders": false
+      }
+    ],
+    "selectedLinkFormatPreset": "Default (Wikilink, Shortest)"
+  },
+  "nonDestructiveResizeSettings": {
+    "resizePresets": [
+      {
+        "name": "Default (No Resize)",
+        "resizeDimension": "none",
+        "resizeScaleMode": "auto",
+        "respectEditorMaxWidth": true,
+        "maintainAspectRatio": true,
+        "resizeUnits": "pixels"
+      },
+      {
+        "name": "Width 500px",
+        "resizeDimension": "width",
+        "width": 500,
+        "resizeScaleMode": "auto",
+        "respectEditorMaxWidth": true,
+        "maintainAspectRatio": true,
+        "resizeUnits": "pixels",
+        "longestEdge": 400
+      },
+      {
+        "name": "Height 800px",
+        "resizeDimension": "height",
+        "height": 800,
+        "resizeScaleMode": "auto",
+        "respectEditorMaxWidth": true,
+        "maintainAspectRatio": true,
+        "resizeUnits": "pixels"
+      },
+      {
+        "name": "50% Width",
+        "resizeDimension": "width",
+        "width": 50,
+        "resizeScaleMode": "auto",
+        "respectEditorMaxWidth": true,
+        "maintainAspectRatio": true,
+        "resizeUnits": "percentage"
+      },
+      {
+        "name": "Longest Edge 1000px",
+        "resizeDimension": "longest-edge",
+        "longestEdge": 1000,
+        "resizeScaleMode": "auto",
+        "respectEditorMaxWidth": true,
+        "maintainAspectRatio": true,
+        "resizeUnits": "pixels"
+      },
+      {
+        "name": "Fit Editor",
+        "resizeDimension": "editor-max-width",
+        "resizeScaleMode": "auto",
+        "respectEditorMaxWidth": true,
+        "maintainAspectRatio": true,
+        "resizeUnits": "pixels"
+      },
+      {
+        "name": "Original Width",
+        "resizeDimension": "original-width",
+        "resizeScaleMode": "auto",
+        "respectEditorMaxWidth": false,
+        "maintainAspectRatio": true,
+        "resizeUnits": "pixels"
+      },
+      {
+        "name": "Custom (Distort)",
+        "resizeDimension": "both",
+        "customValue": "300x100",
+        "resizeScaleMode": "auto",
+        "respectEditorMaxWidth": false,
+        "maintainAspectRatio": false,
+        "resizeUnits": "pixels"
+      },
+      {
+        "name": "400px",
+        "resizeDimension": "height",
+        "longestEdge": 400,
+        "resizeUnits": "pixels",
+        "maintainAspectRatio": true,
+        "resizeScaleMode": "reduce",
+        "respectEditorMaxWidth": true,
+        "height": 360
+      }
+    ],
+    "selectedResizePreset": "400px"
+  },
+  "resizeCursorLocation": "none",
+  "dropPasteCursorLocation": "back",
+  "neverProcessFilenames": "",
+  "modalBehavior": "never",
+  "singleImageModalSettings": {
+    "conversionPresetName": "None",
+    "outputFormat": "NONE",
+    "quality": 100,
+    "colorDepth": 1,
+    "resizeMode": "None",
+    "desiredWidth": 800,
+    "desiredHeight": 600,
+    "desiredLongestEdge": 1000,
+    "enlargeOrReduce": "Auto",
+    "allowLargerFiles": false,
+    "pngquantExecutablePath": "",
+    "pngquantQuality": "65-80",
+    "ffmpegExecutablePath": "",
+    "ffmpegCrf": 23,
+    "ffmpegPreset": "medium"
+  },
+  "ProcessCurrentNoteconvertTo": "webp",
+  "ProcessCurrentNotequality": 0.75,
+  "ProcessCurrentNoteResizeModalresizeMode": "None",
+  "ProcessCurrentNoteresizeModaldesiredWidth": 600,
+  "ProcessCurrentNoteresizeModaldesiredHeight": 800,
+  "ProcessCurrentNoteresizeModaldesiredLength": 800,
+  "ProcessCurrentNoteskipImagesInTargetFormat": false,
+  "ProcessCurrentNoteEnlargeOrReduce": "Always",
+  "ProcessCurrentNoteSkipFormats": "tif,tiff,heic",
+  "ProcessAllVaultconvertTo": "webp",
+  "ProcessAllVaultquality": 0.75,
+  "ProcessAllVaultResizeModalresizeMode": "None",
+  "ProcessAllVaultResizeModaldesiredWidth": 500,
+  "ProcessAllVaultResizeModaldesiredHeight": 500,
+  "ProcessAllVaultResizeModaldesiredLength": 500,
+  "ProcessAllVaultEnlargeOrReduce": "Always",
+  "ProcessAllVaultSkipFormats": "",
+  "ProcessAllVaultskipImagesInTargetFormat": false,
+  "annotationPresets": {
+    "drawing": [
+      {
+        "size": 12,
+        "color": "#ffff80",
+        "opacity": 0.6,
+        "blendMode": "source-over",
+        "backgroundColor": "#ffffff",
+        "backgroundOpacity": 0.7
+      },
+      {
+        "size": 12,
+        "color": "#ff0000",
+        "opacity": 0.6,
+        "blendMode": "source-over",
+        "backgroundColor": "#ffffff",
+        "backgroundOpacity": 0.7
+      },
+      {
+        "size": 12,
+        "color": "#ff7300",
+        "opacity": 0.6,
+        "blendMode": "source-over",
+        "backgroundColor": "#ffffff",
+        "backgroundOpacity": 0.7
+      }
+    ],
+    "arrow": [
+      {
+        "size": 12,
+        "color": "#ffff80",
+        "opacity": 0.6,
+        "blendMode": "source-over",
+        "backgroundColor": "#ffffff",
+        "backgroundOpacity": 0.7
+      },
+      {
+        "size": 12,
+        "color": "#ff0000",
+        "opacity": 0.6,
+        "blendMode": "source-over",
+        "backgroundColor": "#ffffff",
+        "backgroundOpacity": 0.7
+      },
+      {
+        "size": 12,
+        "color": "#ff7300",
+        "opacity": 0.6,
+        "blendMode": "source-over",
+        "backgroundColor": "#ffffff",
+        "backgroundOpacity": 0.7
+      }
+    ],
+    "text": [
+      {
+        "size": 12,
+        "color": "#ffff80",
+        "opacity": 0.6,
+        "blendMode": "source-over",
+        "backgroundColor": "#ffffff",
+        "backgroundOpacity": 0.32
+      },
+      {
+        "size": 12,
+        "color": "#ff0000",
+        "opacity": 0.6,
+        "blendMode": "source-over",
+        "backgroundColor": "#ffffff",
+        "backgroundOpacity": 0.32
+      },
+      {
+        "size": 12,
+        "color": "#ff7300",
+        "opacity": 0.6,
+        "blendMode": "source-over",
+        "backgroundColor": "#ffffff",
+        "backgroundOpacity": 0.32
+      }
+    ]
+  },
+  "isImageAlignmentEnabled": false,
+  "imageAlignment_cacheCleanupInterval": 3600000,
+  "imageAlignment_cacheLocation": "plugin",
+  "isDragResizeEnabled": true,
+  "isScrollResizeEnabled": true,
+  "isResizeInReadingModeEnabled": false,
+  "resizeSensitivity": 0.1,
+  "scrollwheelModifier": "Shift",
+  "isImageResizeEnbaled": true,
+  "resizeState": {
+    "isResizing": false
+  },
+  "enableContextMenu": true,
+  "showSpaceSavedNotification": true,
+  "revertToOriginalIfLarger": false,
+  "enableImageCaptions": true,
+  "skipCaptionExtensions": "icns",
+  "captionFontSize": "var(--font-smaller)",
+  "captionColor": "var(--text-gray)",
+  "captionFontStyle": "italic",
+  "captionBackgroundColor": "transparent",
+  "captionPadding": "2px 4px",
+  "captionBorderRadius": "0",
+  "captionOpacity": "1",
+  "captionFontWeight": "normal",
+  "captionTextTransform": "none",
+  "captionLetterSpacing": "normal",
+  "captionBorder": "",
+  "captionMarginTop": "4px",
+  "captionAlignment": "center"
+}

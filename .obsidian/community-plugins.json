@@ -7,9 +7,10 @@
   "calendar",
   "folder-notes",
   "obsidian-icon-folder",
-  "copy-url-in-preview",
   "table-editor-obsidian",
   "obsidian-git",
-  "obsidian-style-settings",
-  "dataview"
+  "dataview",
+  "tag-wrangler",
+  "image-converter",
+  "obsidian-style-settings"
 ]

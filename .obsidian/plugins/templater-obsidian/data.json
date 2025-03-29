@@ -1,13 +1,12 @@
 {
   "command_timeout": 20,
-  "templates_folder": "",
-  "templates_pairs": [
-  ],
+  "templates_folder": "Obsidian/templates",
+  "templates_pairs": [],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": true,
   "enable_system_commands": true,
   "shell_path": "",
-  "user_scripts_folder": "Obsidian/templater-scripts",
+  "user_scripts_folder": "",
   "enable_folder_templates": false,
   "folder_templates": [],
   "enable_file_templates": true,
@@ -20,9 +19,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Obsidian/templater/html - furigana.md",
-    "Obsidian/templater/snippet - time_.md",
-    "Obsidian/templater/snippet - date.md"
+    "Obsidian/templates/snippet/html - furigana.md",
+    "Obsidian/templates/snippet/snippet - time_.md"
   ],
   "startup_templates": [],
   "intellisense_render": 1
