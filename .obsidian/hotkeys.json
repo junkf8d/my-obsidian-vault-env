@@ -6,19 +6,13 @@
         "Shift"
       ],
       "key": "J"
-    },
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": " "
     }
   ],
   "zk-prefixer": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": " "
     }
@@ -378,6 +372,14 @@
         "Mod"
       ],
       "key": "'"
+    }
+  ],
+  "quickadd:choice:0ff0b9a9-f093-4026-af11-29012081d29b": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
     }
   ]
 }
