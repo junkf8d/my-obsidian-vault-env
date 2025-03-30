@@ -1,6 +1,7 @@
 ---
 created: 2025-03-28T20:32:35
 modified:
+  - 2025-03-31T00:53:50
   - 2025-03-29T20:15:58
   - 2025-03-28T21:03:39
   - 2025-03-28T20:39:55
@@ -9,6 +10,8 @@ tags:
 related: 
 memo: 
 ---
+
+zenn: [Obsidian 1日1粒、クソTemplaterを作りたい場所](https://zenn.dev/junkf8d/scraps/efaea9d02ea1e5)
 
 [[Templater]]良すぎる
 色々とちょうどいいい

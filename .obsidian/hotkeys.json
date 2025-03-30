@@ -384,5 +384,30 @@
       ],
       "key": "R"
     }
+  ],
+  "workspace:close-window": [],
+  "obsidian-zoom:zoom-in": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "obsidian-zoom:zoom-out": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "workspace:toggle-stacked-tabs": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
   ]
 }
