@@ -42,14 +42,6 @@
       "key": "D"
     }
   ],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
   "editor:toggle-highlight": [
     {
       "modifiers": [
@@ -248,24 +240,6 @@
       "key": "\\"
     }
   ],
-  "editor:swap-line-up": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
   "templater-obsidian:🪨Obsidian/templater/snippet - time_.md": [
     {
       "modifiers": [
@@ -380,6 +354,30 @@
         "Mod"
       ],
       "key": " "
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
     }
   ]
 }
