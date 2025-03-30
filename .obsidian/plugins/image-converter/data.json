@@ -235,14 +235,14 @@
         "maintainAspectRatio": true,
         "resizeScaleMode": "reduce",
         "respectEditorMaxWidth": true,
-        "height": 360
+        "height": 240
       }
     ],
     "selectedResizePreset": "400px"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
-  "neverProcessFilenames": "",
+  "neverProcessFilenames": "*.gif,*.gifv,*.webp",
   "modalBehavior": "never",
   "singleImageModalSettings": {
     "conversionPresetName": "None",
