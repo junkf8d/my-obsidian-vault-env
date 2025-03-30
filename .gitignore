@@ -18,6 +18,7 @@
 
 # ignore assets
 Obsidian/assets
+Obsidian/sounds
 
 # daily note ()
 !Daily/
