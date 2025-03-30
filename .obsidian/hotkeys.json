@@ -98,12 +98,6 @@
       "key": "P"
     }
   ],
-  "file-explorer:reveal-active-file": [
-    {
-      "modifiers": [],
-      "key": "F4"
-    }
-  ],
   "workspace:edit-file-title": [],
   "editor:set-heading-1": [
     {
@@ -308,14 +302,6 @@
       "key": "P"
     }
   ],
-  "open-with-default-app:show": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "F4"
-    }
-  ],
   "templater-obsidian:Obsidian/templater/html - furigana.md": [
     {
       "modifiers": [
@@ -378,6 +364,25 @@
         "Alt"
       ],
       "key": "ArrowLeft"
+    }
+  ],
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
     }
   ]
 }
