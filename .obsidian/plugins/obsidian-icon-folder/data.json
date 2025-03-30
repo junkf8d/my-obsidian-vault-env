@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🗒️",
+      "📝",
+      "🎙️",
       "📂",
       "📓",
       "🌐",
@@ -37,5 +40,17 @@
   "Clippings": "🌐",
   "Daily": "📓",
   "Obsidian": "🪨",
-  "Public": "📂"
+  "Public": "📂",
+  "Daily/2025年/03月/2025-03-30(日)/2025-03-30(日)-whisper.md": {
+    "iconName": "🎙️"
+  },
+  "Daily/template - daily page.md": {
+    "iconName": "📝"
+  },
+  "Daily/template - daily note.md": {
+    "iconName": "📓"
+  },
+  "Daily/2025年/03月/2025-03-30(日)/2025-03-30(日).md": {
+    "iconName": "📓"
+  }
 }
