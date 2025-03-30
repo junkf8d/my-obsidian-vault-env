@@ -36,3 +36,6 @@ Obsidian/assets
 .obsidian/plugins/obsidian-livesync/main.js
 .obsidian/plugins/obsidian-livesync/manifest.json
 .obsidian/plugins/obsidian-livesync/styles.css
+
+# allow list
+!Obsidian.md
