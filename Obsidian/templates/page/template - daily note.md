@@ -1,8 +1,7 @@
 ---
 created: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
-modified:
+modified: 
 tags: 
-memo: 
 icon: 📓
 ---
 ## summary

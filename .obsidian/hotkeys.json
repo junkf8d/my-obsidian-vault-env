@@ -300,14 +300,6 @@
       "key": ";"
     }
   ],
-  "templater-obsidian:Obsidian/templates/snippet/snippet - time_.md": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": ";"
-    }
-  ],
   "templater-obsidian:Obsidian/templates/snippet/html - furigana.md": [
     {
       "modifiers": [
@@ -429,6 +421,38 @@
         "Shift"
       ],
       "key": "Delete"
+    }
+  ],
+  "editor:delete-paragraph": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "templater-obsidian:Obsidian/templates/snippet/snippet - time_.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ],
+  "templater-obsidian:Obsidian/templates/snippet/snippet - date_.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
     }
   ]
 }
