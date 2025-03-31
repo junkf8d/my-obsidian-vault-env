@@ -20,9 +20,11 @@
 Obsidian/assets
 Obsidian/sounds
 
-# daily note ()
+# daily notes
 !Daily/
 !Daily/Daily.md
+!Daily/template - daily note.md
+!Daily/template - daily page.md
 
 # public
 !Public/
