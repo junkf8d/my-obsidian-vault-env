@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🪨",
       "🧠",
       "🎟️",
       "🗒️",
@@ -43,22 +44,35 @@
   "Daily": "📓",
   "Obsidian": "🪨",
   "Public": "📂",
-  "Daily/2025年/03月/2025-03-30(日)/2025-03-30(日)-whisper.md": {
-    "iconName": "🎙️"
-  },
-  "Daily/2025年/03月/2025-03-30(日)/2025-03-30(日).md": {
-    "iconName": "📓"
-  },
-  "Daily/2025年/03月/2025-03-31(月)/2025-03-31(月)-whisper.md": {
-    "iconName": "🎙️"
-  },
-  "Daily/2025年/03月/2025-03-31(月)/2025-03-31(月).md": {
-    "iconName": "📓"
-  },
   "Obsidian/templates/page/template - daily page.md": {
     "iconName": "📝"
   },
   "Obsidian/templates/page/template - daily note.md": {
+    "iconName": "📓"
+  },
+  "PARA": "🧠",
+  "PARA/PARA.md": {
+    "iconName": "🧠"
+  },
+  "Obsidian/Obsidian.md": {
+    "iconName": "🪨"
+  },
+  "Daily/Daily.md": {
+    "iconName": "📓"
+  },
+  "Daily/2025年/2025年14週目/2025-03-31(月)/2025-03-31(月).md": {
+    "iconName": "📓"
+  },
+  "Daily/2025年/2025年14週目/2025-03-31(月)/2025-03-31(月)-whisper.md": {
+    "iconName": "🎙️"
+  },
+  "Daily/2025年/2025年14週目/2025-03-30(日)/2025-03-30(日)-whisper.md": {
+    "iconName": "🎙️"
+  },
+  "Daily/2025年/2025年14週目/2025-03-30(日)/2025-03-30(日).md": {
+    "iconName": "📓"
+  },
+  "Daily/2025年/2025年14週目/2025-04-01(火)/2025-04-01(火).md": {
     "iconName": "📓"
   }
 }

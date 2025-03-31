@@ -16,7 +16,7 @@
       "template": "Obsidian/templates/page/new note.md"
     }
   ],
-  "syntax_highlighting": true,
+  "syntax_highlighting": false,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Obsidian/templates/snippet/html - furigana.md",
