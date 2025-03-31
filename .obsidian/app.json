@@ -8,10 +8,10 @@
   "useTab": false,
   "spellcheck": false,
   "showLineNumber": false,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "visible",
   "userIgnoreFilters": [
     "Obsidian/"
   ],
-  "uriCallbacks": true,
+  "uriCallbacks": false,
   "tabSize": 4
 }

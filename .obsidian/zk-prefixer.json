@@ -1,5 +1,5 @@
 {
   "format": "YYYY年/MM月/YYYY-MM-DD(ddd)/HH：mm",
   "folder": "Daily",
-  "template": "Daily/template - daily page"
+  "template": "Obsidian/templates/page/template - daily page"
 }

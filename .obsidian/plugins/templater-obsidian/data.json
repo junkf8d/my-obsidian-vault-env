@@ -20,9 +20,11 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Obsidian/templates/snippet/html - furigana.md",
-    "Obsidian/templates/snippet/snippet - time_.md",
     "Obsidian/templates/snippet/script - ollama short.md",
-    "Obsidian/templates/snippet/script - ollama tiny.md"
+    "Obsidian/templates/snippet/script - ollama tiny.md",
+    "Obsidian/templates/snippet/snippet - time_.md",
+    "Obsidian/templates/snippet/snippet - date_.md",
+    "Obsidian/templates/snippet/snippet - datetime_.md"
   ],
   "startup_templates": [],
   "intellisense_render": 1

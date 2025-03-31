@@ -267,9 +267,9 @@
   "ProcessCurrentNoteresizeModaldesiredWidth": 600,
   "ProcessCurrentNoteresizeModaldesiredHeight": 800,
   "ProcessCurrentNoteresizeModaldesiredLength": 800,
-  "ProcessCurrentNoteskipImagesInTargetFormat": false,
+  "ProcessCurrentNoteskipImagesInTargetFormat": true,
   "ProcessCurrentNoteEnlargeOrReduce": "Always",
-  "ProcessCurrentNoteSkipFormats": "tif,tiff,heic",
+  "ProcessCurrentNoteSkipFormats": "tif,tiff,heic,gif,gifv,webp",
   "ProcessAllVaultconvertTo": "webp",
   "ProcessAllVaultquality": 0.75,
   "ProcessAllVaultResizeModalresizeMode": "None",
@@ -277,7 +277,7 @@
   "ProcessAllVaultResizeModaldesiredHeight": 500,
   "ProcessAllVaultResizeModaldesiredLength": 500,
   "ProcessAllVaultEnlargeOrReduce": "Always",
-  "ProcessAllVaultSkipFormats": "",
+  "ProcessAllVaultSkipFormats": "gif,gifv,webp",
   "ProcessAllVaultskipImagesInTargetFormat": false,
   "annotationPresets": {
     "drawing": [
@@ -352,10 +352,10 @@
       {
         "size": 12,
         "color": "#ff7300",
-        "opacity": 0.6,
+        "opacity": 1,
         "blendMode": "source-over",
         "backgroundColor": "#ffffff",
-        "backgroundOpacity": 0.32
+        "backgroundOpacity": 0.62
       }
     ]
   },

@@ -39,7 +39,7 @@ Obsidian/sounds
 .obsidian/plugins/obsidian-livesync/main.js
 .obsidian/plugins/obsidian-livesync/manifest.json
 .obsidian/plugins/obsidian-livesync/styles.css
+.obsidian/plugins/obsidian-icon-folder/data.json
 
 # allow list
 !Obsidian.md
-.obsidian/plugins/obsidian-icon-folder/data.json
