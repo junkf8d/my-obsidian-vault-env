@@ -20,16 +20,6 @@
 Obsidian/assets
 Obsidian/sounds
 
-# daily notes
-!Daily/
-!Daily/Daily.md
-!Daily/template - daily note.md
-!Daily/template - daily page.md
-
-# public
-!Public/
-!Public/**
-
 # deny list
 .obsidian/workspace
 .obsidian/workspace.json
@@ -40,6 +30,3 @@ Obsidian/sounds
 .obsidian/plugins/obsidian-livesync/manifest.json
 .obsidian/plugins/obsidian-livesync/styles.css
 .obsidian/plugins/obsidian-icon-folder/data.json
-
-# allow list
-!Obsidian.md

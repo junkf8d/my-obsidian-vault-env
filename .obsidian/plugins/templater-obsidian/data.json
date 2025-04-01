@@ -1,10 +1,10 @@
 {
   "command_timeout": 20,
-  "templates_folder": "Obsidian/templates",
+  "templates_folder": "= Obsidian/templates",
   "templates_pairs": [],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": true,
-  "enable_system_commands": true,
+  "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": false,
@@ -12,19 +12,19 @@
   "enable_file_templates": true,
   "file_templates": [
     {
-      "regex": "^(?!Obsidian/).*",
-      "template": "Obsidian/templates/page/new note.md"
+      "regex": "^(?!= (Obsidian|Web Clippings))/.*",
+      "template": "= Obsidian/templates/page/new note.md"
     }
   ],
   "syntax_highlighting": false,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Obsidian/templates/snippet/html - furigana.md",
-    "Obsidian/templates/snippet/script - ollama short.md",
-    "Obsidian/templates/snippet/script - ollama tiny.md",
-    "Obsidian/templates/snippet/snippet - time_.md",
-    "Obsidian/templates/snippet/snippet - date_.md",
-    "Obsidian/templates/snippet/snippet - datetime_.md"
+    "= Obsidian/templates/snippet/html - furigana.md",
+    "= Obsidian/templates/snippet/script - ollama short.md",
+    "= Obsidian/templates/snippet/script - ollama tiny.md",
+    "= Obsidian/templates/snippet/snippet - time_.md",
+    "= Obsidian/templates/snippet/snippet - date_.md",
+    "= Obsidian/templates/snippet/snippet - datetime_.md"
   ],
   "startup_templates": [],
   "intellisense_render": 1
