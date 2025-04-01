@@ -34,45 +34,50 @@
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": false,
-    "iconsInLinksEnabled": false,
+    "iconsInLinksEnabled": true,
     "iconIdentifier": "",
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Clippings": "🌐",
-  "Daily": "📓",
-  "Obsidian": "🪨",
-  "Public": "📂",
-  "Obsidian/templates/page/template - daily page.md": {
+  "= Daily/2025年/2025年14週目/2025-03-30(日)/2025-03-30(日)-whisper.md": {
+    "iconName": "🎙️"
+  },
+  "= Daily/2025年/2025年14週目/2025-03-30(日)/2025-03-30(日).md": {
+    "iconName": "📓"
+  },
+  "= Daily/2025年/2025年14週目/2025-04-01(火)/2025-04-01(火).md": {
+    "iconName": "📓"
+  },
+  "= Daily/2025年/2025年14週目/2025-04-01(火)/22：20 CouchDBを使えるようにしたい.md": {
     "iconName": "📝"
   },
-  "Obsidian/templates/page/template - daily note.md": {
+  "= Daily/2025年/2025年14週目/2025-03-31(月)/2025-03-31(月)-whisper.md": {
+    "iconName": "🎙️"
+  },
+  "= Daily/2025年/2025年14週目/2025-03-31(月)/2025-03-31(月).md": {
     "iconName": "📓"
   },
-  "PARA": "🧠",
-  "PARA/PARA.md": {
+  "= Daily/2025年/2025年14週目/2025-04-02(水)/2025-04-02(水).md": {
+    "iconName": "📓"
+  },
+  "= Daily/= Daily.md": {
+    "iconName": "📓"
+  },
+  "= PARA/= PARA.md": {
     "iconName": "🧠"
   },
-  "Obsidian/Obsidian.md": {
+  "= Obsidian/templates/page/template - daily note.md": {
+    "iconName": "📓"
+  },
+  "= Obsidian/templates/page/template - daily page.md": {
+    "iconName": "📝"
+  },
+  "= Obsidian/= Obsidian.md": {
     "iconName": "🪨"
   },
-  "Daily/Daily.md": {
-    "iconName": "📓"
+  "= Daily/2025年/2025年14週目/2025-04-02(水)/00：50.md": {
+    "iconName": "📝"
   },
-  "Daily/2025年/2025年14週目/2025-03-31(月)/2025-03-31(月).md": {
-    "iconName": "📓"
-  },
-  "Daily/2025年/2025年14週目/2025-03-31(月)/2025-03-31(月)-whisper.md": {
-    "iconName": "🎙️"
-  },
-  "Daily/2025年/2025年14週目/2025-03-30(日)/2025-03-30(日)-whisper.md": {
-    "iconName": "🎙️"
-  },
-  "Daily/2025年/2025年14週目/2025-03-30(日)/2025-03-30(日).md": {
-    "iconName": "📓"
-  },
-  "Daily/2025年/2025年14週目/2025-04-01(火)/2025-04-01(火).md": {
-    "iconName": "📓"
-  }
+  "site/site.md": "🌐"
 }
