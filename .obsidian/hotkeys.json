@@ -388,15 +388,6 @@
       "key": "Q"
     }
   ],
-  "zk-prefixer": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": " "
-    }
-  ],
   "editor:add-cursor-above": [
     {
       "modifiers": [
@@ -500,6 +491,16 @@
         "Mod"
       ],
       "key": "'"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": " "
     }
   ]
 }

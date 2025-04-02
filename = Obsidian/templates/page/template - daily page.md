@@ -1,5 +1,5 @@
 ---
-created: tp.date.now("YYYY-MM-DDTHH:mm:ss")
+created: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 modified:
 tags: 
 ---
