@@ -13,12 +13,12 @@
 !.vscode/**
 
 # config directory
-!Obsidian/
-!Obsidian/**
+!=\ Obsidian/
+!=\ Obsidian/**
 
 # ignore assets
-Obsidian/assets
-Obsidian/sounds
+=\ Obsidian/assets
+=\ Obsidian/sounds
 
 # deny list
 .obsidian/workspace

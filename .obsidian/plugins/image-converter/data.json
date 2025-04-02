@@ -108,9 +108,9 @@
       "ffmpegPreset": "medium"
     },
     {
-      "name": "compress 70%",
+      "name": "WEBP (25%)",
       "outputFormat": "WEBP",
-      "quality": 50,
+      "quality": 24,
       "colorDepth": 1,
       "resizeMode": "None",
       "desiredWidth": 800,
@@ -124,7 +124,7 @@
       "ffmpegPreset": "medium"
     }
   ],
-  "selectedConversionPreset": "WEBP (75, no resizing)",
+  "selectedConversionPreset": "PNGQUANT (65-80, no resizing)",
   "globalPresets": [
     {
       "name": "WebP 75",
@@ -243,7 +243,7 @@
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
   "neverProcessFilenames": "*.gif,*.gifv,*.webp",
-  "modalBehavior": "never",
+  "modalBehavior": "always",
   "singleImageModalSettings": {
     "conversionPresetName": "None",
     "outputFormat": "NONE",
