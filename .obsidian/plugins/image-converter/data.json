@@ -33,7 +33,7 @@
       "skipRenamePatterns": ""
     }
   ],
-  "selectedFilenamePreset": "custom",
+  "selectedFilenamePreset": "NoteName-Timestamp",
   "outputFormat": "NONE",
   "quality": 100,
   "colorDepth": 1,
@@ -56,7 +56,7 @@
     {
       "name": "None",
       "outputFormat": "NONE",
-      "quality": 100,
+      "quality": 20,
       "colorDepth": 1,
       "resizeMode": "None",
       "desiredWidth": 800,
@@ -124,10 +124,10 @@
       "ffmpegPreset": "medium"
     }
   ],
-  "selectedConversionPreset": "PNGQUANT (65-80, no resizing)",
+  "selectedConversionPreset": "WEBP (75, no resizing)",
   "globalPresets": [
     {
-      "name": "WebP 75",
+      "name": "WEBP 75",
       "folderPreset": "Default (Obsidian setting)",
       "filenamePreset": "NoteName-Timestamp",
       "conversionPreset": "WEBP (75, no resizing)",
@@ -135,7 +135,7 @@
       "resizePreset": "Default (No Resize)"
     }
   ],
-  "selectedGlobalPreset": "",
+  "selectedGlobalPreset": "WEBP 75",
   "linkFormatSettings": {
     "linkFormatPresets": [
       {
@@ -243,7 +243,7 @@
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
   "neverProcessFilenames": "*.gif,*.gifv,*.webp",
-  "modalBehavior": "always",
+  "modalBehavior": "never",
   "singleImageModalSettings": {
     "conversionPresetName": "None",
     "outputFormat": "NONE",
@@ -374,7 +374,7 @@
   "enableContextMenu": true,
   "showSpaceSavedNotification": true,
   "revertToOriginalIfLarger": false,
-  "enableImageCaptions": true,
+  "enableImageCaptions": false,
   "skipCaptionExtensions": "icns",
   "captionFontSize": "var(--font-smaller)",
   "captionColor": "var(--text-gray)",

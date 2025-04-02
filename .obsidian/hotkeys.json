@@ -478,6 +478,28 @@
         "Mod"
       ],
       "key": "="
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "templater-obsidian:= Obsidian/templates/snippet/html - furigana.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "command_timeout": 20,
-  "templates_folder": "= Obsidian/templates",
+  "templates_folder": "",
   "templates_pairs": [],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": true,
@@ -12,7 +12,7 @@
   "enable_file_templates": true,
   "file_templates": [
     {
-      "regex": "^(?!= (Obsidian|Web Clippings))/.*",
+      "regex": "^(?!= (Obsidian|Web Clippings)/).*",
       "template": "= Obsidian/templates/page/new note.md"
     }
   ],

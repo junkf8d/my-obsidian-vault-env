@@ -19,6 +19,7 @@
 # ignore assets
 =\ Obsidian/assets
 =\ Obsidian/sounds
+=\ Obsidian/excalidraw
 
 # deny list
 .obsidian/workspace

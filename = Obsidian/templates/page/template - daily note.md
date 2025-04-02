@@ -1,28 +1,8 @@
 ---
-created:
+created: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 modified:
 tags:
-icon: 📓
 ---
-<%*
-
-const dateValues = [
-    tp.date.now("日付/YYYY年/MM月/DD日"),
-    tp.date.now("日付/YYYY年/週番号/ww週目"),
-    tp.date.now("日付/YYYY年/通算日/DDDD日目"),
-    tp.date.now("日付/YYYY年/四半期/[Q]Q"),
-    tp.date.now("日付/曜日/dddd")
-];
-
-tp.hooks.on_all_templates_executed(async () => {
-    const file = tp.file.find_tfile(tp.file.path(true));
-    await app.fileManager.processFrontMatter(file, (props) => {
-        props["created"] = tp.date.now("YYYY-MM-DDTHH:mm:ss");
-        props["tags"] = dateValues;
-    });
-});
-
--%>
 
 <%*
 
@@ -50,11 +30,10 @@ const daysLeftInWeek = 7 - now.day();
 const weekPercent = Math.round((daysLeftInWeek / 7) * 100);
 
 const weeksLeft = moment().weeksInYear() - now.week();
-const yearWeekPercent = Math.round((weeksLeft / moment().weeksInYear()) * 100);
 
 tR = `| ${year} | ${month} | ${day}${weekDay} | ${weekNum} |
 | :-: | :-: | :-: | :-: |
-| 残${daysLeft}日(${yearPercent}%) | 残${daysLeftInMonth}日(${monthPercent}%) | ${highlightToday()} | 残${weeksLeft}週(${yearWeekPercent}%) |`;
+| 残${daysLeft}日(${yearPercent}%) | 残${daysLeftInMonth}日(${monthPercent}%) | ${highlightToday()} | 残${weeksLeft}週 |`;
 
 %>
 
